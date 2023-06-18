@@ -1,0 +1,256 @@
+Solutie 1:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 11
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(7, 15)
+
+Cost: 7.229495267880295
+Lungime: 4
+0.16803646087646484 secunde
+Numarul maxim de noduri existente in memorie: 831
+Numarul total de succesori generati: 1664
+
+-------------------------
+
+Solutie 2:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 10
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(7, 15)
+
+Cost: 7.229495267880295
+Lungime: 4
+0.16803646087646484 secunde
+Numarul maxim de noduri existente in memorie: 831
+Numarul total de succesori generati: 1664
+
+-------------------------
+
+Solutie 3:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(7, 15)
+
+Cost: 7.229495267880295
+Lungime: 4
+0.16803646087646484 secunde
+Numarul maxim de noduri existente in memorie: 831
+Numarul total de succesori generati: 1664
+
+-------------------------
+
+Solutie 4:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(7, 15)
+
+Cost: 7.229495267880295
+Lungime: 4
+0.16803646087646484 secunde
+Numarul maxim de noduri existente in memorie: 831
+Numarul total de succesori generati: 1664
+
+-------------------------
+
+Solutie 5:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 7
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 10
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(7, 15)
+
+Cost: 7.229495267880295
+Lungime: 4
+0.17003726959228516 secunde
+Numarul maxim de noduri existente in memorie: 836
+Numarul total de succesori generati: 1676
+
+-------------------------
+
+Solutie 6:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 7
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(7, 15)
+
+Cost: 7.229495267880295
+Lungime: 4
+0.171036958694458 secunde
+Numarul maxim de noduri existente in memorie: 836
+Numarul total de succesori generati: 1676
+
+-------------------------
+
+Solutie 7:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 7
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(7, 15)
+
+Cost: 7.229495267880295
+Lungime: 4
+0.171036958694458 secunde
+Numarul maxim de noduri existente in memorie: 836
+Numarul total de succesori generati: 1676
+
+-------------------------
+
+Solutie 8:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(7, 15)
+
+Cost: 7.229495267880295
+Lungime: 4
+0.17303776741027832 secunde
+Numarul maxim de noduri existente in memorie: 841
+Numarul total de succesori generati: 1686
+
+-------------------------
+
+Solutie 9:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(7, 15)
+
+Cost: 7.229495267880295
+Lungime: 4
+0.17303776741027832 secunde
+Numarul maxim de noduri existente in memorie: 841
+Numarul total de succesori generati: 1686
+
+-------------------------
+
+Solutie 10:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(3, 15)
+
+5)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 11
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(0, 7), id9(2, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(3, 15)
+
+Cost: 8.821854415126694
+Lungime: 5
+0.1760406494140625 secunde
+Numarul maxim de noduri existente in memorie: 850
+Numarul total de succesori generati: 1699
+
+-------------------------
+
+
+aStarOptimizat terminat

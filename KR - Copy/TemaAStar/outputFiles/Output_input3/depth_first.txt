@@ -1,0 +1,972 @@
+Solutie 1:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id6(-3.0, 1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+5)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+6)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id9(-5.0, 0.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+7)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id9(-5.0, 0.0) la id8(-4.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+8)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+9)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id2(-1.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+10)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+11)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+12)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+13)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+14)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+15)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+16)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(6, 15)
+
+17)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(6, 15)
+
+18)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(5, 15)
+
+19)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(5, 15)
+
+20)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(0, 15)
+
+21)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+22)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 27.892922226992173
+Lungime: 22
+0.040013790130615234 secunde
+Numarul maxim de noduri existente in memorie: 162
+Numarul total de succesori generati: 1757
+
+-------------------------
+
+Solutie 2:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id6(-3.0, 1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+5)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+6)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id9(-5.0, 0.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+7)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id9(-5.0, 0.0) la id8(-4.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+8)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+9)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id2(-1.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+10)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+11)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+12)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+13)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+14)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+15)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+16)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(6, 15)
+
+17)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(6, 15)
+
+18)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(5, 15)
+
+19)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(5, 15)
+
+20)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(0, 15)
+
+21)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+22)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 27.892922226992173
+Lungime: 22
+0.05502772331237793 secunde
+Numarul maxim de noduri existente in memorie: 166
+Numarul total de succesori generati: 2394
+
+-------------------------
+
+Solutie 3:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id6(-3.0, 1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+5)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+6)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id9(-5.0, 0.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+7)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id9(-5.0, 0.0) la id8(-4.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+8)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+9)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id2(-1.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+10)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+11)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+12)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+13)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+14)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+15)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+16)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(6, 15)
+
+17)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(6, 15)
+
+18)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(5, 15)
+
+19)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(5, 15)
+
+20)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 7
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+21)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+22)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 27.892922226992173
+Lungime: 22
+0.10003089904785156 secunde
+Numarul maxim de noduri existente in memorie: 169
+Numarul total de succesori generati: 4389
+
+-------------------------
+
+Solutie 4:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id6(-3.0, 1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+5)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+6)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id9(-5.0, 0.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+7)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id9(-5.0, 0.0) la id8(-4.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+8)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+9)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id2(-1.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+10)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+11)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+12)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+13)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+14)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+15)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+16)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(6, 15)
+
+17)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(6, 15)
+
+18)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(5, 15)
+
+19)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(5, 15)
+
+20)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 7
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+21)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+22)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 27.892922226992173
+Lungime: 22
+0.11491274833679199 secunde
+Numarul maxim de noduri existente in memorie: 169
+Numarul total de succesori generati: 5026
+
+-------------------------
+
+Solutie 5:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id6(-3.0, 1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+5)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+6)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id9(-5.0, 0.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+7)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id9(-5.0, 0.0) la id8(-4.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+8)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+9)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id2(-1.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+10)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+11)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+12)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+13)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+14)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+15)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+16)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(6, 15)
+
+17)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(6, 15)
+
+18)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(4, 15)
+
+19)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(4, 15)
+
+20)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(0, 15)
+
+21)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+22)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 27.892922226992173
+Lungime: 22
+0.16393256187438965 secunde
+Numarul maxim de noduri existente in memorie: 170
+Numarul total de succesori generati: 6904
+
+-------------------------
+
+Solutie 6:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id6(-3.0, 1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+5)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+6)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id9(-5.0, 0.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+7)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id9(-5.0, 0.0) la id8(-4.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+8)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+9)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id2(-1.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+10)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+11)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+12)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+13)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+14)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+15)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+16)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(6, 15)
+
+17)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(6, 15)
+
+18)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(4, 15)
+
+19)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(4, 15)
+
+20)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(0, 15)
+
+21)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+22)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 27.892922226992173
+Lungime: 22
+0.17894887924194336 secunde
+Numarul maxim de noduri existente in memorie: 170
+Numarul total de succesori generati: 7541
+
+-------------------------
+
+Solutie 7:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id6(-3.0, 1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+5)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+6)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id9(-5.0, 0.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+7)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id9(-5.0, 0.0) la id8(-4.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+8)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+9)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id2(-1.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+10)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+11)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+12)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+13)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+14)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+15)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+16)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(6, 15)
+
+17)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(6, 15)
+
+18)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(4, 15)
+
+19)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(4, 15)
+
+20)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(0, 15)
+
+21)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+22)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 27.892922226992173
+Lungime: 22
+0.22249412536621094 secunde
+Numarul maxim de noduri existente in memorie: 170
+Numarul total de succesori generati: 9455
+
+-------------------------
+
+Solutie 8:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id6(-3.0, 1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+5)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+6)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id9(-5.0, 0.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+7)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id9(-5.0, 0.0) la id8(-4.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+8)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+9)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id2(-1.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+10)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+11)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+12)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+13)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+14)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+15)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+16)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(6, 15)
+
+17)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(6, 15)
+
+18)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(4, 15)
+
+19)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(4, 15)
+
+20)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(0, 15)
+
+21)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+22)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 27.892922226992173
+Lungime: 22
+0.23764562606811523 secunde
+Numarul maxim de noduri existente in memorie: 170
+Numarul total de succesori generati: 10092
+
+-------------------------
+
+Solutie 9:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id6(-3.0, 1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+5)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+6)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id9(-5.0, 0.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+7)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id9(-5.0, 0.0) la id8(-4.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+8)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+9)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id2(-1.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+10)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+11)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+12)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+13)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+14)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+15)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+16)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(6, 15)
+
+17)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(6, 15)
+
+18)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(4, 15)
+
+19)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(4, 15)
+
+20)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 7
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+21)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+22)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 27.892922226992173
+Lungime: 22
+0.2830657958984375 secunde
+Numarul maxim de noduri existente in memorie: 170
+Numarul total de succesori generati: 12086
+
+-------------------------
+
+Solutie 10:
+1)
+Broscovina se afla pe frunza initiala id8(-4.0, 0.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+4)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id6(-3.0, 1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+5)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id7(-4.0, 1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+6)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id7(-4.0, 1.0) la id9(-5.0, 0.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+7)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id9(-5.0, 0.0) la id8(-4.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(1, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+8)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id8(-4.0, 0.0) la id6(-3.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+9)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3.0, 1.0) la id2(-1.0, 1.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+10)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+11)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(2, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+12)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1.0, 1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+13)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+14)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+15)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+16)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(6, 15)
+
+17)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 2
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(6, 15)
+
+18)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(4, 15)
+
+19)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(4, 15)
+
+20)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id13(-2.0, -1.0). Greutate broscuta: 7
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+21)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+22)
+Broscovina a mancat 4 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(0, 6), id7(0, 7), id8(0, 7), id9(0, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 27.892922226992173
+Lungime: 22
+0.2970876693725586 secunde
+Numarul maxim de noduri existente in memorie: 170
+Numarul total de succesori generati: 12723
+
+-------------------------
+
+
+depthFirst terminat

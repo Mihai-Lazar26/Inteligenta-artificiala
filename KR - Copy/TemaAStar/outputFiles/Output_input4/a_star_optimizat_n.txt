@@ -1,0 +1,412 @@
+Solutie 1:
+1)
+Broscovina se afla pe frunza initiala id1(0.0, 0.0). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(0.0, -2.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id12(0.0, -2.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id14(-1.0, -1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+4)
+Broscovina a mancat 3 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 10
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+5)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id2(-1.0, 1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+6)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+7)
+Mormolocel a mancat 1 insecte. Mormolocel a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 18.47213595499958
+Lungime: 7
+10.415198564529419 secunde
+Numarul maxim de noduri existente in memorie: 7172
+Numarul total de succesori generati: 11754
+
+-------------------------
+
+Solutie 2:
+1)
+Broscovina se afla pe frunza initiala id1(0.0, 0.0). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(0.0, -2.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id12(0.0, -2.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id14(-1.0, -1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+4)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+5)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id2(-1.0, 1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+6)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+7)
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 18.47213595499958
+Lungime: 7
+10.44219970703125 secunde
+Numarul maxim de noduri existente in memorie: 7173
+Numarul total de succesori generati: 11766
+
+-------------------------
+
+Solutie 3:
+1)
+Broscovina se afla pe frunza initiala id1(0.0, 0.0). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(0.0, -2.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id12(0.0, -2.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id14(-1.0, -1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+4)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+5)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id2(-1.0, 1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+6)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+7)
+Mormolocel a mancat 1 insecte. Mormolocel a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 18.47213595499958
+Lungime: 7
+10.443198442459106 secunde
+Numarul maxim de noduri existente in memorie: 7173
+Numarul total de succesori generati: 11766
+
+-------------------------
+
+Solutie 4:
+1)
+Broscovina se afla pe frunza initiala id1(0.0, 0.0). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(0.0, -2.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id12(0.0, -2.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id14(-1.0, -1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+4)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+5)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id2(-1.0, 1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+6)
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 7
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(0, 15)
+
+7)
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(0, 15)
+
+Cost: 18.47213595499958
+Lungime: 7
+10.457209587097168 secunde
+Numarul maxim de noduri existente in memorie: 7173
+Numarul total de succesori generati: 11776
+
+-------------------------
+
+Solutie 5:
+1)
+Broscovina se afla pe frunza initiala id1(0.0, 0.0). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(0.0, -2.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id12(0.0, -2.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id14(-1.0, -1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+4)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+5)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id2(-1.0, 1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+6)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+7)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 10
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 18.47213595499958
+Lungime: 7
+10.491333723068237 secunde
+Numarul maxim de noduri existente in memorie: 7179
+Numarul total de succesori generati: 11789
+
+-------------------------
+
+Solutie 6:
+1)
+Broscovina se afla pe frunza initiala id1(0.0, 0.0). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(0.0, -2.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id12(0.0, -2.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id14(-1.0, -1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+4)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+5)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id2(-1.0, 1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+6)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+7)
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 18.47213595499958
+Lungime: 7
+10.492326736450195 secunde
+Numarul maxim de noduri existente in memorie: 7179
+Numarul total de succesori generati: 11789
+
+-------------------------
+
+Solutie 7:
+1)
+Broscovina se afla pe frunza initiala id1(0.0, 0.0). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(0.0, -2.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id12(0.0, -2.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id14(-1.0, -1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+4)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+5)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id2(-1.0, 1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+6)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+7)
+Mormolocel a mancat 1 insecte. Mormolocel a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(2, 12), id11(3, 6), id12(0, 5), id13(0, 9), id14(0, 15)
+
+Cost: 18.47213595499958
+Lungime: 7
+10.492326736450195 secunde
+Numarul maxim de noduri existente in memorie: 7179
+Numarul total de succesori generati: 11789
+
+-------------------------
+
+Solutie 8:
+1)
+Broscovina se afla pe frunza initiala id1(0.0, 0.0). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(0.0, -2.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id12(0.0, -2.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id14(-1.0, -1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+4)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+5)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id2(-1.0, 1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+6)
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 7
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(0, 15)
+
+7)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 9
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(0, 15)
+
+Cost: 18.47213595499958
+Lungime: 7
+10.524901866912842 secunde
+Numarul maxim de noduri existente in memorie: 7181
+Numarul total de succesori generati: 11803
+
+-------------------------
+
+Solutie 9:
+1)
+Broscovina se afla pe frunza initiala id1(0.0, 0.0). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(0.0, -2.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id12(0.0, -2.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id14(-1.0, -1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+4)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+5)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id2(-1.0, 1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+6)
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 7
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(0, 15)
+
+7)
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(1, 12), id11(3, 6), id12(0, 5), id13(1, 9), id14(0, 15)
+
+Cost: 18.47213595499958
+Lungime: 7
+10.524901866912842 secunde
+Numarul maxim de noduri existente in memorie: 7181
+Numarul total de succesori generati: 11803
+
+-------------------------
+
+Solutie 10:
+1)
+Broscovina se afla pe frunza initiala id1(0.0, 0.0). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(0.0, -2.0). Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0.0, 0.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id12(0.0, -2.0) la id14(-1.0, -1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(7, 15)
+
+3)
+Broscovina a mancat 5 insecte. Broscovina a sarit de la id14(-1.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 8
+Mormolocel a mancat 2 insecte. Mormolocel a sarit de la id14(-1.0, -1.0) la id1(0.0, 0.0). Greutate broscuta: 5
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+4)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id1(0.0, 0.0) la id2(-1.0, 1.0). Greutate broscuta: 4
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+5)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id2(-1.0, 1.0) la id13(-2.0, -1.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(3, 9), id14(0, 15)
+
+6)
+Mormolocel a mancat 1 insecte. Mormolocel a sarit de la id13(-2.0, -1.0) la id10(-3.0, -3.0). Greutate broscuta: 6
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(3, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(0, 15)
+
+7)
+Mormolocel a mancat 3 insecte. Mormolocel a sarit de la id10(-3.0, -3.0) la mal. Greutate broscuta: 8
+Stare frunze: id0(3, 5), id1(0, 5), id2(0, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(0, 12), id11(3, 6), id12(0, 5), id13(2, 9), id14(0, 15)
+
+Cost: 18.47213595499958
+Lungime: 7
+10.55132269859314 secunde
+Numarul maxim de noduri existente in memorie: 7183
+Numarul total de succesori generati: 11812
+
+-------------------------
+
+
+aStarOptimizat terminat

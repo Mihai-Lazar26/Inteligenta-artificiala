@@ -1,0 +1,15 @@
+Solutie 1:
+1)
+Broscovina se afla pe mal. Greutate broscuta: 5
+Mormolocel se afla pe mal. Greutate broscuta: 3
+Stare frunze: id0(3, 5), id1(0, 5), id2(3, 8), id3(0, 7), id4(3, 10), id5(1, 5), id6(1, 6), id7(3, 7), id8(1, 7), id9(2, 8), id10(4, 12), id11(3, 6), id12(2, 5), id13(3, 9), id14(7, 15)
+
+Cost: 0
+Lungime: 1
+0.0 secunde
+Numarul maxim de noduri existente in memorie: 1
+Numarul total de succesori generati: 0
+
+-------------------------
+
+breathFirst terminat
