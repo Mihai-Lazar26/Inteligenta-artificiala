@@ -1,0 +1,14 @@
+- ce este modelul?
+ * parametri
+- text preprocessing
+- preprocessing scaler
+- hiperparametrizare
+- acc validare
+slist
+l2 2 0.7
+l1 3 0.6
+l2 5 0.5
+
+-pt cel mai bun model matricea de confuzie
+
+confusion_matrix din sklearn
